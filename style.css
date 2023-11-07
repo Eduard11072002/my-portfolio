@@ -218,15 +218,15 @@ h3{
     }
     .content-links{
         font-size: 25px;
-        margin-left: 30px;
+        margin-left: 25px;
     }
     .banner-btn a{
-        margin-left: 35px;
+        margin-left: 25px;
     }
     .content img{
         width: 40%;
         left: 90px;
-        top: -280px;
+        top: -300px;
     }
 }
 
@@ -456,7 +456,7 @@ b{
 
 @media screen and (max-width: 768px){
     #projects{
-        height: 220vh;
+        height: 200vh;
     }
     .card-info a{
         margin-left: 40px;
@@ -465,7 +465,7 @@ b{
         margin-left: 140px;
     }
     .card img{
-        width: 400px;
+        width: 350px;
         
     }
 }
@@ -585,7 +585,7 @@ h6{
         text-align: center;
     }
     .footer-center{
-        margin-left: 30%;
+        margin-left: 35%;
     }
     .footer-right{
         margin-left: 20%;
