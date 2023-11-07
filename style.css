@@ -212,16 +212,16 @@ h3{
         font-size: 20px;
     }
     .content{
-        top: 55%;
+        top: 50%;
         width: 85%;
         margin-left: 25px;
     }
     .content-links{
         font-size: 25px;
-        margin-left: 50px;
+        margin-left: 30px;
     }
     .banner-btn a{
-        margin-left: 40px;
+        margin-left: 35px;
     }
     .content img{
         width: 40%;
@@ -456,16 +456,16 @@ b{
 
 @media screen and (max-width: 768px){
     #projects{
-        height: 230vh;
+        height: 220vh;
     }
     .card-info a{
         margin-left: 40px;
     }
     .button-prj{
-        margin-left: 150px;
+        margin-left: 140px;
     }
     .card img{
-        width: 450px;
+        width: 400px;
         
     }
 }
@@ -585,7 +585,7 @@ h6{
         text-align: center;
     }
     .footer-center{
-        margin-left: 25%;
+        margin-left: 30%;
     }
     .footer-right{
         margin-left: 20%;
