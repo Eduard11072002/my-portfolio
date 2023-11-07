@@ -218,15 +218,15 @@ h3{
     }
     .content-links{
         font-size: 25px;
-        margin-left: 25px;
+        margin-left: 10px;
     }
     .banner-btn a{
-        margin-left: 25px;
+        margin-left: 15px;
     }
     .content img{
         width: 40%;
         left: 90px;
-        top: -300px;
+        top: -200px;
     }
 }
 
@@ -462,7 +462,7 @@ b{
         margin-left: 40px;
     }
     .button-prj{
-        margin-left: 140px;
+        margin-left: 130px;
     }
     .card img{
         width: 350px;
