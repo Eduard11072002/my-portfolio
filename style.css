@@ -218,7 +218,7 @@ h3{
     }
     .content-links{
         font-size: 25px;
-        margin-left: 5px;
+        margin-left: 2px;
     }
     .banner-btn a{
         margin-left: 5px;
@@ -226,7 +226,7 @@ h3{
     .content img{
         width: 45%;
         left: 90px;
-        top: -20px;
+        top: -220px;
     }
 }
 
