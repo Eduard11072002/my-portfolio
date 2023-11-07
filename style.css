@@ -200,7 +200,7 @@ h3{
     }
 
     ul li a{
-        font-size: 13px;
+        font-size: 10px;
     }
     h2{
         font-size: 25px;
@@ -212,15 +212,16 @@ h3{
         font-size: 20px;
     }
     .content{
-        top: 60%;
+        top: 55%;
         width: 85%;
+        margin-left: 15px;
     }
     .content-links{
         font-size: 25px;
-        margin-left: 55px;
+        margin-left: 50px;
     }
     .banner-btn a{
-        margin-left: 45px;
+        margin-left: 40px;
     }
     .content img{
         width: 40%;
@@ -234,7 +235,7 @@ h3{
     width: 100%;
     height: 90vh;
     background-color: #2a2c2a;
-    font-family: cursive;
+    font-family: sans-serif;
 }
 
 h4{
@@ -255,7 +256,7 @@ h4{
 
 @media screen and (max-width: 768px){
     #about{
-        height: 220vh;
+        height: 210vh;
     }
     
 }
@@ -455,13 +456,13 @@ b{
 
 @media screen and (max-width: 768px){
     #projects{
-        height: 250vh;
+        height: 245vh;
     }
     .card-info a{
-        margin-left: 70px;
+        margin-left: 40px;
     }
     .button-prj{
-        margin-left: 160px;
+        margin-left: 150px;
     }
     .card img{
         width: 450px;
@@ -583,5 +584,9 @@ h6{
     .footer-desc{
         text-align: center;
     }
-    
-}
+    .footer-center{
+        margin-left: 20%;
+    }
+    .footer-right{
+        margin-left: 20%;
+    }
