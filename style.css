@@ -218,15 +218,15 @@ h3{
     }
     .content-links{
         font-size: 25px;
-        margin-left: 10px;
+        margin-left: 5px;
     }
     .banner-btn a{
-        margin-left: 15px;
+        margin-left: 5px;
     }
     .content img{
-        width: 40%;
+        width: 45%;
         left: 90px;
-        top: -200px;
+        top: -20px;
     }
 }
 
@@ -360,6 +360,9 @@ b{
 }
 
 @media screen and (max-width: 768px){
+    #experience{
+        height: 80vh;
+    }
     h5{
         margin-left: 30%;
     }
@@ -462,7 +465,7 @@ b{
         margin-left: 40px;
     }
     .button-prj{
-        margin-left: 130px;
+        margin-left: 120px;
     }
     .card img{
         width: 350px;
